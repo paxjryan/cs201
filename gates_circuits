@@ -30,13 +30,6 @@
 ; a comment for each one explaining its input and results.
 
 ;**********************************************************
-; ** problem 0 ** (1 point)
-; Modify the following definition to reflect the number of
-; hours you spent on this assignment.
-
-(define hours 10)
-
-;**********************************************************
 
 ; Wires and gates.
 

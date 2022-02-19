@@ -18,49 +18,12 @@
 
 (require racket/trace)
 
-;************************************************************
-; CS 201 HW #6  DUE Monday November 8th at 11:59 pm, 
-; via the submit system on the Zoo.
-;************************************************************
-; Name: Pax Ryan
-; Email address: pax.ryan@yale.edu
-;************************************************************
-
 ; Computer science topics: TC-201 assembler and simulator,
 ; assembly language programs for encrypt, reverse, and power.
 
 ; You may write auxiliary procedure(s) in addition to
 ; the one(s) specified in the problem.  Please include
 ; a comment for each one explaining its input and results.
-
-;************************************************************
-; ** problem 0 ** (1 point)
-; Modify the following definition to reflect the number of
-; hours you spent on this assignment.
-
-(define hours 14)
-
-; ********************************************************
-; ** problem 00 ** (1 fairly easy point)
-
-; Below is a UNIX transcript with one command replaced by XXXX
-
-(define transcript "
-
-bash-4.4$ pwd
-/home/accts/sbs5/cs201/www/Fall_2019/lectures/test
-bash-4.4$ ls
-file  file2
-bash-4.4$ xxxx
-file: ASCII text
-bash-4.4$ cat file
-hello world
-")
-
-; define xxxx below to be the correct UNIX command.
-
-(define xxxx "file file")
-
 
 ;************************************************************
 
